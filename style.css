@@ -68,6 +68,11 @@ p {
     border-radius: 8px;
 }
 
+a {
+    word-break: break-word;
+    overflow-wrap: break-word;
+}
+
 #contenido1 {
     display: block;
     font-family: 'Lucida Console', Monaco, monospace;
