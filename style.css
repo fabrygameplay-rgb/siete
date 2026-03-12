@@ -247,6 +247,14 @@ footer {
         padding-right: 15px;
         font-size: 16px;
     }
+    
+    #uno {
+        font-size: 16px;
+    }
+
+    #dos {
+        font-size: 15px;
+    }
 
     #contenido1 {
         margin-left: 15px;
@@ -290,7 +298,15 @@ footer {
         font-size: 14px;
     }
 
+    ul h2 {
+        font-size: 14px;
+    }
+
     a {
+        font-size: 9px;
+    }
+
+    p a {
         font-size: 9px;
     }
 
