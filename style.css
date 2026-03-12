@@ -298,16 +298,12 @@ footer {
         font-size: 9px;
     }
 
-    a {
-        font-size: 11px;
-    }
-
     h2 {
         font-size: 18px;
     }
 
-    #contenido1 a {
-        font-size: 9px;
+    p a {
+        font-size: 20px;
     }
 
 }
