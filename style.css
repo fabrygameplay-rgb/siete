@@ -291,19 +291,19 @@ footer {
     }
 
     ul {
-        font-size: 11px;
+        font-size: 9px;
     }
 
     li {
-        font-size: 11px;
+        font-size: 9px;
     }
 
-    li a {
+    a {
         font-size: 11px;
     }
 
     h2 {
-        font-size: 14px;
+        font-size: 18px;
     }
 
 }
