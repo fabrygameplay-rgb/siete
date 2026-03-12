@@ -290,24 +290,20 @@ footer {
         text-align: center;
     }
 
-    ul, li {
-        font-size: 10px;
+    ul {
+        font-size: 11px;
+    }
+
+    li {
+        font-size: 11px;
+    }
+
+    li a {
+        font-size: 11px;
     }
 
     h2 {
         font-size: 14px;
-    }
-
-    ul h2 {
-        font-size: 14px;
-    }
-
-    a {
-        font-size: 9px;
-    }
-
-    p a {
-        font-size: 9px;
     }
 
 }
